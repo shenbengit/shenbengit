@@ -22,7 +22,7 @@
 | [srs-rtc-server](https://github.com/shenbengit/srs-rtc-server)|基于SRS视频服务器实现简易音视频通话系统——信令服务器 ![GitHub Repo stars](https://img.shields.io/github/stars/shenbengit/srs-rtc-server?style=social) |
 | [SrsRtcAndroidClient](https://github.com/shenbengit/SrsRtcAndroidClient)|基于SRS视频服务器实现简易音视频通话系统——Android客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/shenbengit/SrsRtcAndroidClient?style=social) |
 | [srs-rtc-web-client ](https://github.com/shenbengit/srs-rtc-web-client )|基于SRS视频服务器实现简易音视频通话系统——Web客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/shenbengit/srs-rtc-web-client?style=social) |
-
+| [WechatKit](https://github.com/shenbengit/WechatKit)|微信SDK使用工具类，包括分享、支付、登录、拉起小程序功能 ![GitHub Repo stars](https://img.shields.io/github/stars/shenbengit/WechatKit?style=social) |
 <br>
 <p align="center">
   <a href="https://juejin.cn/user/1626932938291463/posts">
